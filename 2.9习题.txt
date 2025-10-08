@@ -1,0 +1,193 @@
+1.PQDT是(D)数据库
+A 科技报告
+B 标准文献
+C 专利文献
+D 学位论文
+
+2.学位论文全文数据库除了中文以外，没有外文数据库(×)
+
+3.检索课题：利用GIS技术机型海洋环境质量评价的研究，关键词：地理信息系统，GIS,海洋生物环境，环境质量评价，水质量评价，下面哪个检索式更合适(D)：
+A (地理信息系统 and GIS)or (海洋生物环境 and 水质量评价 and 环境质量评价)
+B (地理信息系统 and GIS)and (海洋生物环境 or 水质量评价 or 环境质量评价)
+C (地理信息系统 and GIS)or (海洋生物环境 and 水质量评价 and 环境质量评价)
+D (地理信息系统 or GIS)and (海洋生物环境 or 环境质量评价or水质量评价)
+
+4.逻辑运算符包括(D)
+A 逻辑与
+B 逻辑或
+C 逻辑非
+D A,B,C都包括
+
+5.利用文献末尾所附参考文献进行检索的方法是(C)
+A 倒查法
+B 顺查法
+C 引文追溯法
+D 抽查法
+
+6.如果需要检索某位作者的文献被引用的情况，应该使用(C)检索
+A 分类索引
+B 作者索引
+C 引文索引
+D 主题索引
+
+7.广义的信息检索包含两个过程(B)
+A 检索与利用
+B 存储与检索
+C 存储与利用
+D 检索与报道
+
+8.下面对查全率和查准率描述正确的是(ACD)
+A 若某检索工具的查全率较高，则查准率相对较低；
+B 查全率为检出的相关文献量占检出文献总量的百分比
+C 查全率和查准率是反映文献表音深度的两个最主要的指标
+D 查准率和查全率存在互逆关系
+
+9.检索主题：在万方数据库中检索摘要为乙型病毒性肝炎的中医药研究的文献，检索词：乙型病毒性肝炎，乙型肝炎，乙肝，HB，中医药，中药，下面哪个检索式更合适？(A)
+A （乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+B TI=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+C AB=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+D AU=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+
+10.检索主题：在CNKI数据库中检索篇名为乙型病毒性肝炎的中医药研究的文献，检索词：乙型病毒性肝炎，乙型肝炎，乙肝，HB，中医药，中药，下面哪个检索式更合适？(B)
+A （乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+B TI=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+C AB=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+D AU=（乙型病毒性肝炎 or 乙型肝炎 or 乙肝 or HB）and (中医药 or 中药)
+
+11.检索课题：检索与大学生网络碎片化阅读相关的英文文献，检索词：fragment reading, superficial reading, online reading, Internet reading, mobile reading, college student, undergraduate, university student，下面哪个检索式更合适？(B)
+A (“fragment* reading” and “superficial reading”) and (“online reading” or “Internet reading” or “mobile reading”) and (“college* student*” or undergraduate* or “university student*”)
+B (“fragment* reading” or “superficial reading” or “online reading” or “Internet reading” or “mobile reading”) and (“college* student*” or undergraduate* or “university student*”)
+C (“fragment* reading” or “superficial reading”) and (“online reading” or “Internet reading” or “mobile reading”) or (“college* student*” or undergraduate* or “university student*”)
+D (“fragment* reading” and “superficial reading”) or (“online reading” and “Internet reading” and “mobile reading”) and (“college* student*” or undergraduate* or “university student*”)
+
+12.检索课题：可燃冰开采技术研究；检索词：可燃冰，天然气水化合物，甲烷水合物，开采，试采。下面哪个检索式更合适？(C)
+A (可燃冰 and 天然气水化合物 and 甲烷水合物) or (开采 and 试采)
+B (可燃冰 and 天然气水化合物) or 甲烷水合物or (开采 and 试采)
+C (可燃冰 or 天然气水化合物 or 甲烷水合物) and (开采 or 试采)
+D (可燃冰 or 天然气水化合物 or 甲烷水合物) or (开采 and 试采)
+
+13.检索课题：信息检索课教学模式；检索词：文献检索，信息检索，教学模式，课程模式。下面哪个检索式构造更合适？(D)
+A 文献检索 or 信息检索 or (教学模式 and 课程模式)
+B (文献检索 and 信息检索) or (教学模式 and 课程模式)
+C (文献检索 and 信息检索) or 教学模式 or 课程模式
+D (文献检索 or 信息检索) and (教学模式 or 课程模式)
+
+14.检索课题：检索有关企业文化方面的文献；检索词：企业，文化，文化研究。下面哪个检索式构造更合适？(A)
+A 企业 and 文化 and 文化研究
+B 企业 and（文化 or 文化研究）
+C 企业 or（文化 and 文化研究）
+D 企业 and（文化 and 文化研究）
+
+15.检索课题：信息素质教育与人才培养；检索词：信息教育，素质教育，人才培养，下面哪个检索式更合适？(D)
+A 信息教育 or 素质教育 or 人才培养
+B 信息教育 and 素质教育 and 人才培养
+C （信息教育 and 素质教育）or 人才培养
+D （信息教育 or 素质教育）and 人才培养
+
+16.检索课题：中国控制新冠疫情措施，检索词：中国，新冠疫情，传播，传染，控制，防治，下面哪个检索式更合适？(C)
+A 中国 or 新冠疫情 or (传播 and 传染 and 控制 and 防治)
+B 中国 and 新冠疫情 and （传播 or 传染 or 控制 or 防治）
+C 中国 and 新冠疫情 and (传播 or 传染) and (控制 or 防治)
+D (中国 or 新冠疫情) and (传播 or 传染) and (控制 or 防治)
+
+17.检索课题：半导体纳米微粒在聚合物基体中的复合与组装。检索词：半导体，纳米微粒，聚合物基体，复合，组装。下面哪个检索式构造更合适？(B)
+A （半导体 or 纳米微粒）and 聚合物基体 and (复合 or 组装)
+B （半导体or 纳米微粒 or 聚合物基体）and 复合 and 组装
+C (半导体 and 纳米微粒) or 聚合物基体 and (复合 or 组装)
+D （半导体 and 纳米微粒）and 聚合物基体 and (复合 or 组装)
+
+18.请谈谈你在利用开放获取资源时遇到的问题
+
+在利用开放获取资源的过程中，我遇到的主要问题包括以下几个方面：一是资源分散、检索效率不高，常常需要在多个平台之间来回切换，才能获取较为全面的文献；二是资源质量参差不齐，部分文献缺乏严格的同行评议，可靠性需要进一步辨别；三是语言障碍，大量优质开放获取资源以英文为主，阅读和理解需要更多时间；四是更新不及时，部分数据库或机构网站的资源维护不够完善，导致最新的研究成果难以及时获取。这些问题在一定程度上影响了我利用开放获取资源的效率和深度。
+
+19.WOS、ScienceDirect等商业数据库也可检索开放获取资源，这一说法正确吗(√)
+
+20.利用互联网可免费获取OA期刊论文这一说法正确吗(√)
+
+21.请列举2-3个你所知道的开放获取资源访问平台
+
+DOAJ（Directory of Open Access Journals），arXiv， PubMed Central
+
+22.以下关于预印本的描述错误的是？(B)
+A 预印本的英文为Preprint
+B 预印本属于成果正式出版后的一种文献类型
+C arXiv平台可获取预印本文献
+D 预印本是一种开放获取资源
+
+23.开放获取资源包括哪些类型(ACE)
+A 开放存取期刊
+B OPAC
+C 开放存取仓储
+D PubMed
+E 整合性开放资源检索平台
+
+24.开放获取资源具有以下哪些特点？(ABC)
+A 免费获取
+B 合法使用
+C 全文服务
+D 商业传播
+E 不予引用
+F 纸质版本
+
+25.以下哪些平台属于开放获取资源来源网站？(ABCF)
+A arXiv
+B RePec
+C DOAJ
+D WOS
+E Science Online
+F PLOS
+
+26.C N K I  不能使用数据库导航的检索方式。(×)
+
+27.在万方中查找“基于粗糙集的神经网络建模方法研究”的文献，检索结果最多的是（B）。
+A 粗糙集 神经网络 建模方法
+B 粗糙集 神经网络 建模
+C 粗糙集 神经网络 建模 研究
+D 基于粗糙集的神经网络建模方法研究
+
+28.在讲述信息敏感性时举了一个黄金猪肉的案例，其素材信息来自于（C）
+A 互联网
+B 官方媒体
+C 清华大学图书馆
+D 小道消息
+
+29.在美国科学基金会的一项调查中，将一个科研人员的全部工作时间划分为思考计划、查阅文献、科学实验和编写报告，其中查阅文献所占的时间为（  C）
+A 0.077
+B 0.321
+C 0.509
+D 0.093
+
+30.双引号 “ ” 在检索式中所起的作用是（B）
+A 句子检索
+B 限定词组检索
+C 段落检索
+D 截词检索
+
+31.如果检索词a和b为同义词，c用来限制a和b，那么正确的布尔逻辑表达式是（D）
+A (a AND b) OR c
+B a AND b OR c
+C a OR b AND c
+D（a OR b）AND c
+
+32.Ei 检索方式有（ABC）
+A Quick Search
+B Expert Search
+C Thesaurus Search
+D Keyword Search
+
+33.CNKI检索平台检索方式几种检索方式？(A)
+A 3
+B 2
+C 1
+
+34.施一公教授1995年获美国约翰霍普金斯大学博士学位，曾在普林斯顿大学任教，2008年到清华大学工作。如果希望了解施一公的博士学位论文，最有可能检索到这篇学位论文题录信息的数据库是？(C)
+A 清华大学图书馆馆藏目录
+B 普林斯顿大学图书馆馆藏
+C 约翰霍普金斯大学图书馆馆藏目录
+D ProQuest Dissertations and Theses 数据库
+
+35.使用搜索引擎检索某一特定来源网站资源时可使用以下哪个运算符？(C)
+A source：
+B link:
+C site:
+D 不知道
